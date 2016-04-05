@@ -1,0 +1,10 @@
+{
+  "name": "extended-pipes",
+  "version": "0.0.1",
+  "title": "Extended Pipes",
+  "author": "Roktaal",
+  "homepage": "https://github.com/Roktaal/extended_pipes",
+  "contact": "roktaal@gmail.com",
+  "description": "Extends the range of underground pipes to 100 squares",
+  "dependencies": ["base >= 0.12.11"]
+}
